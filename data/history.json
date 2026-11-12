@@ -1,0 +1,332 @@
+[
+    {
+        "command": "organize --path /home/user/Downloads",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-12 08:54:39"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-12 08:55:00"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:11:12"
+    },
+    {
+        "command": "search --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/ --ext .zip",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:11:58"
+    },
+    {
+        "command": "organize --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:12:16"
+    },
+    {
+        "command": "history",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:12:30"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:12:36"
+    },
+    {
+        "command": "help organize",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:12:58"
+    },
+    {
+        "command": "help search",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:13:13"
+    },
+    {
+        "command": "help logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:13:23"
+    },
+    {
+        "command": "help history",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:13:33"
+    },
+    {
+        "command": "help help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:13:37"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:13:55"
+    },
+    {
+        "command": "logs --page 2",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:14:03"
+    },
+    {
+        "command": "logs --page 3",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:14:13"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:48:53"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-14 09:50:50"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:07:36"
+    },
+    {
+        "command": "history",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:07:41"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:08:45"
+    },
+    {
+        "command": "help search",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:08:55"
+    },
+    {
+        "command": "help organize",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:09:04"
+    },
+    {
+        "command": "search --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/ --ext .docx",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:10:06"
+    },
+    {
+        "command": "organize --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "command": "cleanup --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:16:00"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:16:42"
+    },
+    {
+        "command": "logs --page 2",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:16:51"
+    },
+    {
+        "command": "history",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-17 01:17:21"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 07:52:06"
+    },
+    {
+        "command": "help search",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 07:52:17"
+    },
+    {
+        "command": "help organize",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 07:52:27"
+    },
+    {
+        "command": "organize --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "command": "cleanup --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 07:53:43"
+    },
+    {
+        "command": "history",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 07:54:14"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 07:54:18"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:09:49"
+    },
+    {
+        "command": "organize --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "command": "cleanup --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:10:39"
+    },
+    {
+        "command": "search --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/ --ext .pdf",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:11:14"
+    },
+    {
+        "command": "search --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/ --ext .docx",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:12:05"
+    },
+    {
+        "command": "history",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:12:13"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:12:34"
+    },
+    {
+        "command": "logs --page 2",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:13:10"
+    },
+    {
+        "command": "logs --page 5",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:13:18"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:13:26"
+    },
+    {
+        "command": "help search",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:13:42"
+    },
+    {
+        "command": "help organize",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-18 08:14:02"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-28 10:22:23"
+    },
+    {
+        "command": "organize --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-28 10:38:44"
+    },
+    {
+        "command": "logs",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-05-28 10:38:53"
+    },
+    {
+        "command": "help",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-06-13 18:11:32"
+    },
+    {
+        "command": "organize --path /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438",
+        "status": "SUCCESS",
+        "result": "Executed successfully",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "command": "organize --path ~/Downloads",
+        "status": "FAILED",
+        "result": "Execution error: The specified folder does not exist.",
+        "timestamp": "2026-09-28 14:49:49"
+    },
+    {
+        "command": "organize --path home/nursayat/Downloads",
+        "status": "FAILED",
+        "result": "Execution error: The specified folder does not exist.",
+        "timestamp": "2026-09-28 14:50:15"
+    }
+]

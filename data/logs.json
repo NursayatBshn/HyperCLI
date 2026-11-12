@@ -1,0 +1,502 @@
+[
+    {
+        "level": "WARNING",
+        "message": "Unknown command: \u0443\u0447\u0448\u0435",
+        "timestamp": "2026-05-14 09:41:05"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-14 09:48:53"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-14 09:50:50"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: /bin/python",
+        "timestamp": "2026-05-17 00:42:13"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-17 01:07:36"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: history",
+        "timestamp": "2026-05-17 01:07:41"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: clear",
+        "timestamp": "2026-05-17 01:07:46"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-17 01:08:45"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-17 01:08:55"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-17 01:09:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: search",
+        "timestamp": "2026-05-17 01:10:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization started for /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved .~perCLI_Documentation.docx to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved HyperCLI_Documentation.docx to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Introduction to programming 2(2025-2026).docx to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Brown and White Vintage History Project Presentation.pdf to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved GT_New_Horizons_2.8.4_Java_17-25.zip to Archives",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Final_project.pdf to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved elective courses 1st year.pptx to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved SE2521_Sociology_Bilingual.docx to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Assignment#4 (2).docx to Documents",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization finished. Moved 9 files.",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: organize",
+        "timestamp": "2026-05-17 01:13:20"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: cleanup",
+        "timestamp": "2026-05-17 01:16:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-17 01:16:42"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-17 01:16:51"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: history",
+        "timestamp": "2026-05-17 01:17:21"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: \"/home/nursayat/\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/itp2/final",
+        "timestamp": "2026-05-17 02:05:01"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-18 07:52:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-18 07:52:17"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-18 07:52:27"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization started for /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Introduction to programming 2(2025-2026).docx to Documents",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Topics to review_Endterm.docx to Documents",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Final_project.pdf to Documents",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved elective courses 1st year.pptx to Documents",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved SE2521_Sociology_Bilingual.docx to Documents",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved 1.7.10-Fullbright-v1.2.jar to Others",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization finished. Moved 6 files.",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: organize",
+        "timestamp": "2026-05-18 07:53:06"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: cleanup",
+        "timestamp": "2026-05-18 07:53:43"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: history",
+        "timestamp": "2026-05-18 07:54:14"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-18 07:54:18"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: \"/home/nursayat/\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/itp2/final",
+        "timestamp": "2026-05-18 08:06:41"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-18 08:09:49"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization started for /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Introduction to programming 2(2025-2026).docx to Documents",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Brown and White Vintage History Project Presentation.pdf to Documents",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved GT_New_Horizons_2.8.4_Java_17-25.zip to Archives",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Topics to review_Endterm.docx to Documents",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Final_project.pdf to Documents",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved elective courses 1st year.pptx to Documents",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved SE2521_Sociology_Bilingual.docx to Documents",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization finished. Moved 7 files.",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: organize",
+        "timestamp": "2026-05-18 08:10:04"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: cleaup",
+        "timestamp": "2026-05-18 08:10:32"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: cleanup",
+        "timestamp": "2026-05-18 08:10:39"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: search",
+        "timestamp": "2026-05-18 08:11:14"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: seacrh",
+        "timestamp": "2026-05-18 08:11:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: search",
+        "timestamp": "2026-05-18 08:12:05"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: history",
+        "timestamp": "2026-05-18 08:12:13"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-18 08:12:34"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-18 08:13:10"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-18 08:13:18"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-18 08:13:26"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-18 08:13:42"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-18 08:14:02"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: exti",
+        "timestamp": "2026-05-18 08:26:34"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: organizer",
+        "timestamp": "2026-05-28 10:22:17"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-28 10:22:23"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization started for /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Sociology Final Prep (Russian).docx to Documents",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Exam Policy 03.11.2025++ (3).docx to Documents",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved socioo.docx to Documents",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Exam Preparation Questions.pdf to Documents",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Topics to review_Final Test.docx to Documents",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved .~ciology Final Prep (Russian).docx to Documents",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Psychology_Cheatsheet_FINAL.docx to Documents",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization finished. Moved 7 files.",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: organize",
+        "timestamp": "2026-05-28 10:22:31"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-05-28 10:38:44"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: logs",
+        "timestamp": "2026-05-28 10:38:53"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: help",
+        "timestamp": "2026-06-13 18:11:32"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization started for /home/nursayat/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Data_Compute_Labor.pdf to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Lesson 5.pptx to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Wednesday 1006.pdf to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Tuesday.pdf to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved .~Lesson 5.pptx to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved .~nalExam_2026.docx to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Educational Practice Report Template.docx to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Lesson 4.pptx to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved .~ucational Practice Report Template.docx to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved Thursday.pdf to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Moved .~Lesson 4.pptx to Documents",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Organization finished. Moved 11 files.",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "INFO",
+        "message": "Command executed: organize",
+        "timestamp": "2026-06-13 18:12:00"
+    },
+    {
+        "level": "WARNING",
+        "message": "Unknown command: source",
+        "timestamp": "2026-09-28 14:49:44"
+    },
+    {
+        "level": "ERROR",
+        "message": "Execution error: The specified folder does not exist.",
+        "timestamp": "2026-09-28 14:49:49"
+    },
+    {
+        "level": "ERROR",
+        "message": "Execution error: The specified folder does not exist.",
+        "timestamp": "2026-09-28 14:50:15"
+    }
+]
